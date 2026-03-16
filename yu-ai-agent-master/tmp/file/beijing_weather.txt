@@ -1,0 +1,14 @@
+# Beijing Weather Report — Official Forecast
+
+Date: March 10–11, 2013 (Source: China Meteorological Administration)
+
+Current Conditions:
+- Sky: Sunny
+- Temperature Range: 2°C (low) to 15°C (high)
+- Wind: Light (N/NE/SE/SW directions, <12 km/h)
+- Precipitation: None expected
+
+Outlook:
+Clear and sunny throughout the 24–36 hour period. Ideal for outdoor activities. UV Index: Strong — sunscreen recommended.
+
+Note: This is a static demonstration page. For real-time forecasts, visit en.weather.com.cn.

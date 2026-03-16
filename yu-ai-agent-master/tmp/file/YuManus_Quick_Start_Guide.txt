@@ -1,0 +1,26 @@
+================================
+      YUMANUS QUICK START GUIDE
+================================
+
+Hello! I'm YuManus — your all-capable AI assistant.
+
+I help you get things done using these tools:
+
+• readFile         : Load text from a file.
+• writeFile        : Save text to a file.
+• searchWeb        : Search Baidu for up-to-date info.
+• scrapeWebPage    : Extract text from any public webpage.
+• downloadResource : Fetch files (CSV, images, docs) from URLs.
+• executeTerminalCommand : Run shell commands (if supported).
+• generatePDF      : Create PDFs — currently limited by font support.
+
+💡 How to use me:
+   Just describe your goal in plain language.
+   Examples:
+     "Find the population of Tokyo in 2023"
+     "Read 'notes.md' and list key action items"
+     "Download the chart from https://example.com/chart.png"
+
+I’ll break down the task, choose the right tools, and show you each step.
+
+— This file was generated on demand. You're in control.
